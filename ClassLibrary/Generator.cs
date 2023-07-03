@@ -29,7 +29,7 @@ namespace Generator
 {{
     public static class Test 
     {{
-        public static string Text = ""Hello world 6!"";
+        public static string Text = ""Hello world 5!"";
     }}
 }}
 ");

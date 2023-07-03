@@ -3,3 +3,6 @@ obj/
 .idea/
 .vs/
 SourceGeneratorDemo.sln.DotSettings.user
+ConsoleApp/*csproj*
+ConsoleApp/Generated/
+ConsoleApp/Properties/
